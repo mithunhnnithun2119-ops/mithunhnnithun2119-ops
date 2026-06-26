@@ -243,23 +243,6 @@ An autonomous robot that climbs areca trees, detects plant diseases in real-time
   </tr>
 </table>
 
----
-
-## 🏅 Certification
-
-<div align="center">
-
-| | |
-|--|--|
-| 🏛️ **Issuing Body** | Government of India — Skill India / NSDC |
-| 🏫 **Institution** | Emertxe Information Technologies, Bangalore |
-| 📋 **Program** | Advanced Embedded Systems |
-| 🔗 **Sector Council** | Electronics Sector Skill Council of India (ESSC) |
-| 🪪 **QP Code** | ELE/Q1501 — Embedded Software Engineer |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
