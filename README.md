@@ -1,15 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=&animation=fadeIn"/>
-
-```
-███╗   ███╗██╗████████╗██╗  ██╗██╗   ██╗███╗   ██╗    ██╗  ██╗    ███╗   ██╗
-████╗ ████║██║╚══██╔══╝██║  ██║██║   ██║████╗  ██║    ██║  ██║    ████╗  ██║
-██╔████╔██║██║   ██║   ███████║██║   ██║██╔██╗ ██║    ███████║    ██╔██╗ ██║
-██║╚██╔╝██║██║   ██║   ██╔══██║██║   ██║██║╚██╗██║    ██╔══██║    ██║╚██╗██║
-██║ ╚═╝ ██║██║   ██║   ██║  ██║╚██████╔╝██║ ╚████║    ██║  ██║    ██║ ╚████║
-╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝    ╚═╝  ╚═══╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:1a1a2e,100:16213e&height=280&section=header&text=MITHUN%20H%20N&fontSize=75&fontColor=00d4ff&fontAlignY=45&desc=Embedded%20Systems%20Engineer&descSize=22&descColor=a0cfee&descAlignY=65&animation=fadeIn&stroke=00d4ff&strokeWidth=2"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;Advanced+C+%26+C%2B%2B+Developer+%F0%9F%92%BB;Microcontroller+%26+IoT+Enthusiast+%F0%9F%A4%96;Low-Level+Systems+Programmer+%E2%9A%A1;Hardware+%2B+Software+%3D+My+World+%F0%9F%9A%80" alt="Typing SVG" />
 
