@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:1a1a2e,100:16213e&height=280&section=header&text=MITHUN%20H%20N&fontSize=75&fontColor=00d4ff&fontAlignY=45&desc=Embedded%20Systems%20Engineer&descSize=22&descColor=a0cfee&descAlignY=65&animation=fadeIn&stroke=00d4ff&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,60:1a1a2e,100:16213e&height=280&section=header&text=MITHUN%20H%20N&fontSize=75&fontColor=00d4ff&fontAlignY=45&desc=Embedded%20Engineer&descSize=22&descColor=a0cfee&descAlignY=65&animation=fadeIn&stroke=00d4ff&strokeWidth=2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;Advanced+C+%26+C%2B%2B+Developer+%F0%9F%92%BB;Microcontroller+%26+IoT+Enthusiast+%F0%9F%A4%96;Low-Level+Systems+Programmer+%E2%9A%A1;Hardware+%2B+Software+%3D+My+World+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Embedded+Engineer+%F0%9F%94%A7;Advanced+C+%26+C%2B%2B+Developer+%F0%9F%92%BB;Microcontroller+%26+IoT+Enthusiast+%F0%9F%A4%96;Low-Level+Systems+Programmer+%E2%9A%A1;Hardware+%2B+Software+%3D+My+World+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -112,11 +112,10 @@ int main() {
 
 ## 🚀 Projects
 
-<details>
-<summary>🔍 <strong>Project 1 — Inverted Search Engine</strong> &nbsp;<code>C | Hash Table | Linked List | File I/O</code></summary>
-<br/>
+### 🔍 Project 1 — Inverted Search Engine
+> `C` &nbsp;|&nbsp; `Hash Table` &nbsp;|&nbsp; `Linked List` &nbsp;|&nbsp; `File I/O`
 
-> *"Find any word across thousands of files — instantly."*
+*"Find any word across thousands of files — instantly."*
 
 A high-performance word-indexing engine using **hash tables** and **linked lists** that stores and retrieves words across multiple `.txt` files. Supports database creation, keyword lookup, save/load, and display operations.
 
@@ -126,17 +125,14 @@ A high-performance word-indexing engine using **hash tables** and **linked lists
 - 🔗 Per-word frequency + file occurrence tracked in linked structures
 - 🐛 Segfault-free through careful pointer and memory management
 
-**Technologies:** Advanced C · Data Structures & Algorithms · Pointers · String handling · Command-line arguments
-
-</details>
+**Technologies:** `Advanced C` · `Data Structures & Algorithms` · `Pointers` · `String handling` · `CLI args`
 
 ---
 
-<details>
-<summary>🔢 <strong>Project 2 — Arbitrary Precision Calculator</strong> &nbsp;<code>C | Doubly Linked List | Big Integer Arithmetic</code></summary>
-<br/>
+### 🔢 Project 2 — Arbitrary Precision Calculator
+> `C` &nbsp;|&nbsp; `Doubly Linked List` &nbsp;|&nbsp; `Big Integer Arithmetic`
 
-> *"Breaking the integer ceiling — one digit at a time."*
+*"Breaking the integer ceiling — one digit at a time."*
 
 An APC that performs **+, −, ×, ÷** on arbitrarily large numbers by storing each digit in a node of a **doubly linked list**. Fully CLI-driven with carry/borrow handling.
 
@@ -146,17 +142,14 @@ An APC that performs **+, −, ×, ÷** on arbitrarily large numbers by storing 
 - ⚙️ Custom comparison, insertion, and leading-zero-removal helpers
 - 🧠 Digit-by-digit multiplication/division algorithm
 
-**Technologies:** Advanced C · Dynamic memory allocation · Linked lists · String manipulation · CLI args
-
-</details>
+**Technologies:** `Advanced C` · `Dynamic memory allocation` · `Linked lists` · `String manipulation` · `CLI args`
 
 ---
 
-<details>
-<summary>🎵 <strong>Project 3 — MP3 Tag Reader & Editor</strong> &nbsp;<code>C | ID3 Metadata | Bitwise Ops | File Handling</code></summary>
-<br/>
+### 🎵 Project 3 — MP3 Tag Reader & Editor
+> `C` &nbsp;|&nbsp; `ID3 Metadata` &nbsp;|&nbsp; `Bitwise Ops` &nbsp;|&nbsp; `File Handling`
 
-> *"Read, edit, and own your music metadata — from the terminal."*
+*"Read, edit, and own your music metadata — from the terminal."*
 
 A CLI tool for **viewing and editing ID3 metadata** (Title, Artist, Album, Year) in `.mp3` files. Uses struct + enum design, bitwise frame parsing, and validates the `.mp3` extension before any I/O.
 
@@ -166,17 +159,14 @@ A CLI tool for **viewing and editing ID3 metadata** (Title, Artist, Album, Year)
 - 🧱 Struct/enum-based frame data management
 - 🛠️ Multiple edit flags supported in a single command
 
-**Technologies:** Advanced C · Bitwise operators · Structs · Enums · Pointers · CLI args
-
-</details>
+**Technologies:** `Advanced C` · `Bitwise operators` · `Structs` · `Enums` · `Pointers` · `CLI args`
 
 ---
 
-<details>
-<summary>🖼️ <strong>Project 4 — Image Steganography (LSB Encoding)</strong> &nbsp;<code>C | BMP Format | Bit Manipulation | Security</code></summary>
-<br/>
+### 🖼️ Project 4 — Image Steganography (LSB Encoding)
+> `C` &nbsp;|&nbsp; `BMP Format` &nbsp;|&nbsp; `Bit Manipulation` &nbsp;|&nbsp; `Security`
 
-> *"Hiding secrets in plain sight — pixel by pixel."*
+*"Hiding secrets in plain sight — pixel by pixel."*
 
 An **LSB steganography** system that hides secret text files inside **BMP images** without visible quality loss, with both encoder and decoder modules.
 
@@ -186,17 +176,14 @@ An **LSB steganography** system that hides secret text files inside **BMP images
 - 📊 Message size + content embedded without visual artifacts
 - ↩️ Decoder reliably reconstructs the original secret text
 
-**Technologies:** Advanced C · Bitwise operators · BMP parsing · Structs · Pointers · CLI args
-
-</details>
+**Technologies:** `Advanced C` · `Bitwise operators` · `BMP parsing` · `Structs` · `Pointers` · `CLI args`
 
 ---
 
-<details>
-<summary>📒 <strong>Project 5 — Address Book Management System</strong> &nbsp;<code>C | File I/O | Structs | CRUD</code></summary>
-<br/>
+### 📒 Project 5 — Address Book Management System
+> `C` &nbsp;|&nbsp; `File I/O` &nbsp;|&nbsp; `Structs` &nbsp;|&nbsp; `CRUD`
 
-> *"A fully functional contact manager — from scratch in C."*
+*"A fully functional contact manager — from scratch in C."*
 
 A **console-based CRUD contact system** managing name, phone, and email records with persistent file storage and modular programming.
 
@@ -206,9 +193,7 @@ A **console-based CRUD contact system** managing name, phone, and email records 
 - 🔍 Case-insensitive string search and update via pointer
 - 🧱 Modular, reusable function architecture
 
-**Technologies:** Advanced C · File I/O · Structs · Arrays · Pointers · String functions · CLI args
-
-</details>
+**Technologies:** `Advanced C` · `File I/O` · `Structs` · `Arrays` · `Pointers` · `String functions` · `CLI args`
 
 ---
 
@@ -245,14 +230,14 @@ An autonomous robot that climbs areca trees, detects plant diseases in real-time
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  📘  B.E. – Electronics & Communication Engineering (ECE) │
+│  📘  B.E. – Electronics & Communication Engineering (ECE)  │
 │       Visvesvaraya Technological University (VTU)          │
-│       CGPA : 8.13  |  76.13%  |  2022 – 2025               │
+│       CGPA : 8.13  |  76.13%  |  2022 – 2025              │
 ├────────────────────────────────────────────────────────────┤
-│  📗  Diploma – ECE                                        │
+│  📗  Diploma – ECE                                         │
 │       59.19%  |  2018 – 2021                               │
 ├────────────────────────────────────────────────────────────┤
-│  📙  Class X                                              │
+│  📙  Class X                                               │
 │       67.20%  |  2018                                      │
 └────────────────────────────────────────────────────────────┘
 ```
@@ -299,7 +284,7 @@ An autonomous robot that climbs areca trees, detects plant diseases in real-time
 | 💼 **LinkedIn** | [linkedin.com/in/mithun-hn](https://www.linkedin.com/in/mithun-hn) |
 | 🐙 **GitHub** | [github.com/mithunhnnithun2119-ops](https://github.com/mithunhnnithun2119-ops/mithunhnnithun2119-ops) |
 | 📧 **Email** | mithunhnmithun2119@gmail.com |
-| 📱 **Phone** | +91 6360192687 |
+
 
 </div>
 
