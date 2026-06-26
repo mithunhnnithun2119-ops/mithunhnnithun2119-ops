@@ -36,7 +36,7 @@ int main() {
 
     Engineer me = {
         .name     = "Mithun H N",
-        .role     = "Embedded Systems Engineer",
+        .role     = "Embedded Engineer",
         .location = "Bangalore, India  🇮🇳",
         .current  = "Advanced Embedded Systems @ Emertxe"
                     " (Skill India / NSDC Certified)",
@@ -245,14 +245,14 @@ An autonomous robot that climbs areca trees, detects plant diseases in real-time
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  📘  B.E. – Electronics & Communication Engineering (ECE)  │
+│  📘  B.E. – Electronics & Communication Engineering (ECE) │
 │       Visvesvaraya Technological University (VTU)          │
-│       CGPA : 8.13  |  76.13%  |  2022 – 2025              │
+│       CGPA : 8.13  |  76.13%  |  2022 – 2025               │
 ├────────────────────────────────────────────────────────────┤
-│  📗  Diploma – ECE                                         │
+│  📗  Diploma – ECE                                        │
 │       59.19%  |  2018 – 2021                               │
 ├────────────────────────────────────────────────────────────┤
-│  📙  Class X                                               │
+│  📙  Class X                                              │
 │       67.20%  |  2018                                      │
 └────────────────────────────────────────────────────────────┘
 ```
