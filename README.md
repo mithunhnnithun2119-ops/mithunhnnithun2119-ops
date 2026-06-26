@@ -1,19 +1,24 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mithun%20H%20N&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20C%20%7C%20IoT%20%7C%20Hardware%20%2B%20Software&descAlignY=58&descSize=18&descColor=a0a0a0&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=&animation=fadeIn"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;Advanced+C+%26+C%2B%2B+Developer+%F0%9F%92%BB;Hardware+%2B+Software+Enthusiast+%F0%9F%9A%80;IoT+%26+Microcontroller+Expert+%F0%9F%A4%96;Building+from+Bits+to+Systems+%E2%9A%A1" alt="Typing SVG" />
-</a>
+```
+███╗   ███╗██╗████████╗██╗  ██╗██╗   ██╗███╗   ██╗    ██╗  ██╗    ███╗   ██╗
+████╗ ████║██║╚══██╔══╝██║  ██║██║   ██║████╗  ██║    ██║  ██║    ████╗  ██║
+██╔████╔██║██║   ██║   ███████║██║   ██║██╔██╗ ██║    ███████║    ██╔██╗ ██║
+██║╚██╔╝██║██║   ██║   ██╔══██║██║   ██║██║╚██╗██║    ██╔══██║    ██║╚██╗██║
+██║ ╚═╝ ██║██║   ██║   ██║  ██║╚██████╔╝██║ ╚████║    ██║  ██║    ██║ ╚████║
+╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝    ╚═╝  ╚═══╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Engineer+%F0%9F%94%A7;Advanced+C+%26+C%2B%2B+Developer+%F0%9F%92%BB;Microcontroller+%26+IoT+Enthusiast+%F0%9F%A4%96;Low-Level+Systems+Programmer+%E2%9A%A1;Hardware+%2B+Software+%3D+My+World+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-hn)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithunhnnithun2119-ops/mithunhnnithun2119-ops)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithunhnmithun2119@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91%206360192687-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916360192687)
 
 </div>
 
@@ -22,26 +27,28 @@
 ## 🧠 About Me
 
 ```c
-/* mithun.c - Who I am */
+/* mithun.c — Who I am */
 
 #include <stdio.h>
 #include <passion.h>
 #include <skills.h>
 
 typedef struct {
-    char *name;
-    char *role;
-    char *location;
-    char *current;
-    char *interests[4];
+    char  *name;
+    char  *role;
+    char  *location;
+    char  *current;
+    char  *interests[4];
 } Engineer;
 
 int main() {
+
     Engineer me = {
         .name     = "Mithun H N",
         .role     = "Embedded Systems Engineer",
-        .location = "Bangalore, India",
-        .current  = "Advanced Embedded Systems @ Emertxe (Skill India / NSDC Certified)",
+        .location = "Bangalore, India  🇮🇳",
+        .current  = "Advanced Embedded Systems @ Emertxe"
+                    " (Skill India / NSDC Certified)",
         .interests = {
             "Embedded C & Microcontrollers",
             "IoT & Communication Protocols",
@@ -50,13 +57,20 @@ int main() {
         }
     };
 
-    printf("Hello, World! I'm %s\n", me.name);
-    printf("I build things that live close to the hardware\n");
+    printf("Hello, World!  I'm %s\n",    me.name);
+    printf("Role     : %s\n",            me.role);
+    printf("Location : %s\n",            me.location);
+    printf("Now      : %s\n",            me.current);
+    printf("\n--- Interests ---\n");
+    for (int i = 0; i < 4; i++)
+        printf("  [%d] %s\n", i + 1,    me.interests[i]);
+
+    printf("\nI build things that live close to the hardware ⚡\n");
     return 0;
 }
 ```
 
-> 🎯 *"To secure a challenging position in Embedded Systems where I can utilize programming, hardware, and problem-solving skills to contribute to organizational growth while continuously enhancing technical knowledge."*
+> 🎯 *"To secure a challenging position in Embedded Systems where I can utilize my programming, hardware, and problem-solving skills to contribute to organizational growth while continuously enhancing my technical knowledge and professional expertise."*
 
 ---
 
@@ -65,136 +79,143 @@ int main() {
 <div align="center">
 
 ### 💻 Programming Languages
+
 ![C](https://img.shields.io/badge/C-Advanced-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ML%2FCV-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🔌 Embedded Platforms & Controllers
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PIC18F4520](https://img.shields.io/badge/PIC18F4520-Microchip-red?style=for-the-badge)
+![ARM](https://img.shields.io/badge/ARM-8651-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+### ⚙️ Peripheral Expertise
+
+![GPIO](https://img.shields.io/badge/GPIO-Digital%20%26%20Analog-informational?style=for-the-badge)
+![Timers](https://img.shields.io/badge/Timers%20%26%20Counters-Interrupts-informational?style=for-the-badge)
+![LCD](https://img.shields.io/badge/Character%20LCD-Interfacing-informational?style=for-the-badge)
+![Memory](https://img.shields.io/badge/Memory-Usage%20%26%20Interfacing-informational?style=for-the-badge)
 
 ### 📡 Communication Protocols
-![UART](https://img.shields.io/badge/UART-Protocol-blue?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-Protocol-blue?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-Protocol-blue?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN-Protocol-blue?style=for-the-badge)
+
+![UART](https://img.shields.io/badge/UART-Protocol-0077B5?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-Protocol-0077B5?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-Protocol-0077B5?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-Protocol-0077B5?style=for-the-badge)
 
 ### 🧰 Dev Environment & Tools
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+![Vim](https://img.shields.io/badge/Vim-Editor-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-Compiler-orange?style=for-the-badge&logo=gnu&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-Debugger-red?style=for-the-badge)
-![MPLAB](https://img.shields.io/badge/MPLAB-IDE-blue?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![XC8](https://img.shields.io/badge/XC8-Compiler-red?style=for-the-badge)
+![GDB](https://img.shields.io/badge/GDB-Debugger-critical?style=for-the-badge)
+![MPLAB](https://img.shields.io/badge/MPLAB-IDE-0057A8?style=for-the-badge)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projects Showcase
+## 🚀 Projects
 
 <details>
-<summary>🔍 <strong>Project 1 — Inverted Search Engine</strong> &nbsp;<code>C | Data Structures | Hashing</code></summary>
-
+<summary>🔍 <strong>Project 1 — Inverted Search Engine</strong> &nbsp;<code>C | Hash Table | Linked List | File I/O</code></summary>
 <br/>
 
-> **"Find any word across thousands of files — instantly."**
+> *"Find any word across thousands of files — instantly."*
 
-Built a high-performance inverted search engine using **hash tables** and **linked lists** to index and retrieve words from multiple text files. Supports database creation, keyword search, save/load operations, and display.
+A high-performance word-indexing engine using **hash tables** and **linked lists** that stores and retrieves words across multiple `.txt` files. Supports database creation, keyword lookup, save/load, and display operations.
 
 **Key Highlights:**
-- ⚡ O(1) average-case lookup using custom hash indexing
-- 🧩 Handles duplicate files, empty files, and invalid extensions gracefully
-- 🔗 Linked list structure stores per-word frequency + file occurrence data
-- 🐛 Solved segfaults through rigorous pointer debugging
+- ⚡ O(1) average lookup via custom hash indexing
+- 🧩 Gracefully handles duplicate, empty, and invalid files
+- 🔗 Per-word frequency + file occurrence tracked in linked structures
+- 🐛 Segfault-free through careful pointer and memory management
 
-**Skills gained:** Hashing, dynamic memory, file validation, modular C programming
+**Technologies:** Advanced C · Data Structures & Algorithms · Pointers · String handling · Command-line arguments
 
 </details>
 
 ---
 
 <details>
-<summary>🔢 <strong>Project 2 — Arbitrary Precision Calculator</strong> &nbsp;<code>C | Doubly Linked Lists | Big Integer Arithmetic</code></summary>
-
+<summary>🔢 <strong>Project 2 — Arbitrary Precision Calculator</strong> &nbsp;<code>C | Doubly Linked List | Big Integer Arithmetic</code></summary>
 <br/>
 
-> **"Breaking the integer ceiling — one digit at a time."**
+> *"Breaking the integer ceiling — one digit at a time."*
 
-Designed an APC capable of performing **+, −, ×, ÷** on numbers of unlimited size, stored digit-by-digit in **doubly linked lists**. Fully command-line driven with carry/borrow logic.
+An APC that performs **+, −, ×, ÷** on arbitrarily large numbers by storing each digit in a node of a **doubly linked list**. Fully CLI-driven with carry/borrow handling.
 
 **Key Highlights:**
-- 🔢 Handles numbers beyond `long long` limits
-- ↕️ Doubly linked list nodes store individual digits for traversal in both directions
-- ⚙️ Custom comparison, insertion, and zero-removal helper functions
-- 🧠 Step-by-step multiplication/division algorithm design
+- 🔢 Operates on numbers beyond `long long` limits
+- ↕️ Doubly linked nodes enable bidirectional traversal for arithmetic
+- ⚙️ Custom comparison, insertion, and leading-zero-removal helpers
+- 🧠 Digit-by-digit multiplication/division algorithm
 
-**Skills gained:** Big integer arithmetic, dynamic memory, algorithm design, CLI processing
+**Technologies:** Advanced C · Dynamic memory allocation · Linked lists · String manipulation · CLI args
 
 </details>
 
 ---
 
 <details>
-<summary>🎵 <strong>Project 3 — MP3 Tag Reader & Editor</strong> &nbsp;<code>C | File Handling | ID3 Metadata | Bitwise Ops</code></summary>
-
+<summary>🎵 <strong>Project 3 — MP3 Tag Reader & Editor</strong> &nbsp;<code>C | ID3 Metadata | Bitwise Ops | File Handling</code></summary>
 <br/>
 
-> **"Read, edit, and own your music metadata — from the terminal."**
+> *"Read, edit, and own your music metadata — from the terminal."*
 
-Built a CLI tool to **view and edit ID3 metadata** (title, artist, album, year) in MP3 files. Uses structures and enums for frame management, with full argument validation and `.mp3` extension checks.
+A CLI tool for **viewing and editing ID3 metadata** (Title, Artist, Album, Year) in `.mp3` files. Uses struct + enum design, bitwise frame parsing, and validates the `.mp3` extension before any I/O.
 
 **Key Highlights:**
-- 🎼 Parses and edits ID3 frame headers using bit-level operations
-- 📁 Validates `.mp3` extension before any file processing
-- 🧱 Struct + enum-based design for clean data management
-- 🛠️ Supports multiple edit flags in a single command
+- 🎼 Byte-level ID3 frame parsing using bitwise operations
+- 📁 Extension validation guards all file operations
+- 🧱 Struct/enum-based frame data management
+- 🛠️ Multiple edit flags supported in a single command
 
-**Skills gained:** Binary file I/O, bit manipulation, metadata parsing, structured C programming
+**Technologies:** Advanced C · Bitwise operators · Structs · Enums · Pointers · CLI args
 
 </details>
 
 ---
 
 <details>
-<summary>🖼️ <strong>Project 4 — Image Steganography (LSB Encoding)</strong> &nbsp;<code>C | BMP Images | Bit Manipulation | Security</code></summary>
-
+<summary>🖼️ <strong>Project 4 — Image Steganography (LSB Encoding)</strong> &nbsp;<code>C | BMP Format | Bit Manipulation | Security</code></summary>
 <br/>
 
-> **"Hiding secrets in plain sight — pixel by pixel."**
+> *"Hiding secrets in plain sight — pixel by pixel."*
 
-Implemented an **LSB (Least Significant Bit)** steganography system to hide secret text files inside **BMP images** without perceptible quality loss. Includes both encoder and decoder modules.
+An **LSB steganography** system that hides secret text files inside **BMP images** without visible quality loss, with both encoder and decoder modules.
 
 **Key Highlights:**
-- 🔐 Encodes secret message bit-by-bit into image pixel data
-- 🧩 Magic string verification for secure data identification
-- 📊 Embeds message size + content into image without visual artifacts
-- ↩️ Decoder successfully retrieves original secret text from encoded image
+- 🔐 Bit-by-bit encoding of secret data into image pixel bytes
+- 🧩 Magic string verification for secure identification
+- 📊 Message size + content embedded without visual artifacts
+- ↩️ Decoder reliably reconstructs the original secret text
 
-**Skills gained:** Steganography, BMP format parsing, bitwise C programming, security concepts
+**Technologies:** Advanced C · Bitwise operators · BMP parsing · Structs · Pointers · CLI args
 
 </details>
 
 ---
 
 <details>
-<summary>📒 <strong>Project 5 — Address Book Management System</strong> &nbsp;<code>C | File I/O | Structures | CRUD</code></summary>
-
+<summary>📒 <strong>Project 5 — Address Book Management System</strong> &nbsp;<code>C | File I/O | Structs | CRUD</code></summary>
 <br/>
 
-> **"A fully functional contact manager — from scratch in C."**
+> *"A fully functional contact manager — from scratch in C."*
 
-Developed a **console-based address book** supporting CRUD operations on contacts containing name, phone number, and email. Built with modular programming and persistent file storage.
+A **console-based CRUD contact system** managing name, phone, and email records with persistent file storage and modular programming.
 
 **Key Highlights:**
-- 📋 Full CRUD operations on contact records
-- 💾 Persistent storage using file I/O
-- 🔍 String-comparison-based search and update logic
-- 🧱 Modular, reusable function design
+- 📋 Full Create · Read · Update · Delete operations
+- 💾 Binary file persistence — data survives restarts
+- 🔍 Case-insensitive string search and update via pointer
+- 🧱 Modular, reusable function architecture
 
-**Skills gained:** File management, struct design, modular programming, string operations
+**Technologies:** Advanced C · File I/O · Structs · Arrays · Pointers · String functions · CLI args
 
 </details>
 
@@ -202,59 +223,64 @@ Developed a **console-based address book** supporting CRUD operations on contact
 
 ## 🌱 Academic Highlight
 
-### 🤖 Tree-Climbing Robot for Areca Disease Detection & Spraying
+### 🤖 Tree-Climbing Robot — Areca Disease Detection & Precision Spraying
 
-> *Final Year B.E. (ECE) Project — VTU*
+> *Final Year B.E. (ECE) Project — Visvesvaraya Technological University*
 
-Built an **autonomous tree-climbing robot** with real-time plant disease detection using **ML + Computer Vision**, enabling targeted pesticide spraying to reduce chemical usage.
+An autonomous robot that climbs areca trees, detects plant diseases in real-time using **ML + Computer Vision**, and triggers **targeted pesticide spraying** — minimising chemical usage while maximising accuracy.
 
-| Component | Technology |
-|-----------|-----------|
-| Vision & ML | TensorFlow · OpenCV · Keras · Pi Camera |
-| Controllers | Raspberry Pi · ESP32 |
-| Actuation | Servo-based Sprayer · Motor Control |
-| IoT | Blynk Software · Sensor Interfacing |
+| Layer | Technology Stack |
+|-------|-----------------|
+| **Vision & ML** | TensorFlow · OpenCV · Keras · Pi Camera Module |
+| **Controllers** | Raspberry Pi · ESP32 |
+| **Actuation** | Servo-based Sprayer · DC Motor Control |
+| **IoT / Remote** | Blynk Software · Sensor Interfacing |
 
-**Impact:** High detection accuracy, minimal chemical waste, supports sustainable agriculture 🌿
+> 🌿 Real-world impact: reduced chemical waste, supported sustainable agricultural practices.
 
 ---
 
-## 📚 Coursework & Knowledge Base
+## 📚 Academic Coursework
 
-<div align="center">
-
-| Domain | Topics |
-|--------|--------|
-| 🖥️ Processor Architecture | Microprocessor · 8086 Instructions · RISC-V 32I Base ISA |
-| ⚡ Electronics | Digital Electronics · VLSI |
-| 📡 Signal & Image | Digital Signal Processing · Digital Image Processing |
-
-</div>
+| Domain | Subjects |
+|--------|----------|
+| 🖥️ **Processor Architecture** | Microprocessor · 8086 Instructions · RISC-V 32I Base ISA |
+| ⚡ **Electronics** | Digital Electronics · VLSI |
+| 📡 **Signal & Image** | Digital Signal Processing · Digital Image Processing |
 
 ---
 
 ## 🎓 Education
 
 ```
-📘 B.E. in Electronics & Communication Engineering (ECE)
-   Visvesvaraya Technological University (VTU)
-   CGPA: 8.13 | 76.13% | 2022–2025
-
-📗 Diploma in ECE
-   59.19% | 2018–2021
-
-📙 Class X
-   67.20% | 2018
+┌────────────────────────────────────────────────────────────┐
+│  📘  B.E. – Electronics & Communication Engineering (ECE)  │
+│       Visvesvaraya Technological University (VTU)          │
+│       CGPA : 8.13  |  76.13%  |  2022 – 2025              │
+├────────────────────────────────────────────────────────────┤
+│  📗  Diploma – ECE                                         │
+│       59.19%  |  2018 – 2021                               │
+├────────────────────────────────────────────────────────────┤
+│  📙  Class X                                               │
+│       67.20%  |  2018                                      │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 🏅 Certification
 
-> 🇮🇳 **Government of India Certified Program** — Advanced Embedded Systems  
-> Emertxe Information Technologies, Bangalore  
-> Aligned with **Skill India / NSDC** under **Electronics Sector Skill Council of India (ESSC)**  
-> QP Code: **ELE/Q1501 — Embedded Software Engineer**
+<div align="center">
+
+| | |
+|--|--|
+| 🏛️ **Issuing Body** | Government of India — Skill India / NSDC |
+| 🏫 **Institution** | Emertxe Information Technologies, Bangalore |
+| 📋 **Program** | Advanced Embedded Systems |
+| 🔗 **Sector Council** | Electronics Sector Skill Council of India (ESSC) |
+| 🪪 **QP Code** | ELE/Q1501 — Embedded Software Engineer |
+
+</div>
 
 ---
 
@@ -273,16 +299,16 @@ Built an **autonomous tree-climbing robot** with real-time plant disease detecti
 
 ---
 
-## 📬 Let's Connect
+## 📬 Connect With Me
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/mithun-hn](https://www.linkedin.com/in/mithun-hn) |
-| 🐙 GitHub | [github.com/mithunhnnithun2119-ops](https://github.com/mithunhnnithun2119-ops/mithunhnnithun2119-ops) |
-| 📧 Email | mithunhnmithun2119@gmail.com |
-| 📱 Phone | +91 6360192687 |
+| Platform | Details |
+|----------|---------|
+| 💼 **LinkedIn** | [linkedin.com/in/mithun-hn](https://www.linkedin.com/in/mithun-hn) |
+| 🐙 **GitHub** | [github.com/mithunhnnithun2119-ops](https://github.com/mithunhnnithun2119-ops/mithunhnnithun2119-ops) |
+| 📧 **Email** | mithunhnmithun2119@gmail.com |
+| 📱 **Phone** | +91 6360192687 |
 
 </div>
 
@@ -295,5 +321,7 @@ Built an **autonomous tree-climbing robot** with real-time plant disease detecti
 *"The closer you are to the hardware, the more powerful you become."* ⚡
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mithunhnnithun2119-ops&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+⭐ **Star any repo that helped you — it means a lot!** ⭐
 
 </div>
