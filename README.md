@@ -228,19 +228,20 @@ An autonomous robot that climbs areca trees, detects plant diseases in real-time
 
 ## 🎓 Education
 
-```
-┌────────────────────────────────────────────────────────────┐
-│  📘  B.E. – Electronics & Communication Engineering (ECE)  │
-│       Visvesvaraya Technological University (VTU)          │
-│       CGPA : 8.13  |  76.13%  |  2022 – 2025              │
-├────────────────────────────────────────────────────────────┤
-│  📗  Diploma – ECE                                         │
-│       59.19%  |  2018 – 2021                               │
-├────────────────────────────────────────────────────────────┤
-│  📙  Class X                                               │
-│       67.20%  |  2018                                      │
-└────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td>🟦</td>
+    <td><strong>B.E. – Electronics &amp; Communication Engineering (ECE)</strong><br/>Visvesvaraya Technological University (VTU)<br/>CGPA : 8.13 &nbsp;|&nbsp; 76.13% &nbsp;|&nbsp; 2022 – 2025</td>
+  </tr>
+  <tr>
+    <td>🟩</td>
+    <td><strong>Diploma – ECE</strong><br/>59.19% &nbsp;|&nbsp; 2018 – 2021</td>
+  </tr>
+  <tr>
+    <td>🟧</td>
+    <td><strong>Class X</strong><br/>67.20% &nbsp;|&nbsp; 2018</td>
+  </tr>
+</table>
 
 ---
 
